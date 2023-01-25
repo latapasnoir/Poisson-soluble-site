@@ -3,15 +3,6 @@ body{
 
 }
 
-.presentation{
-    color: blanchedalmond;
-}
-
-.gradiant{
-    background: linear-gradient(324deg, rgba(212,18,170, 0.884) 0%, rgba(255, 241, 39, 0.884) 48%, rgba(255,108,13, 0.884) 100%);
-
-}
-
 .button-sus {
     padding: 0.6em 2em;
     border: none;
