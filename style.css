@@ -17,3 +17,11 @@ body{
     -webkit-user-select: none;
     touch-action: manipulation;
   }
+
+  .white{
+    color: blanchedalmond;
+  }
+
+  .bold{
+    font-weight: 500;
+  }
