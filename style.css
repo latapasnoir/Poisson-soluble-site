@@ -10,7 +10,6 @@ body{
     color: rgb(0, 0, 0);
     background: linear-gradient(324deg, rgba(212,18,170, 0.884) 0%, rgba(255, 241, 39, 0.884) 48%, rgba(255,108,13, 0.884) 100%);
     cursor: pointer;
-    position: relative;
     z-index: 0;
     border-radius: 10px;
     user-select: none;
