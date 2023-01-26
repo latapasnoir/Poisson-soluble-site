@@ -1,74 +1,72 @@
 body{
-    background: blanchedalmond;
+  background: blanchedalmond;
 
 }
 
 .button-sus {
-    padding: 0.6em 2em;
-    border: none;
-    outline: none;
-    color: rgb(0, 0, 0);
-    background: linear-gradient(324deg, rgba(212,18,170, 0.884) 0%, rgba(255, 241, 39, 0.884) 48%, rgba(255,108,13, 0.884) 100%);
-    cursor: pointer;
-    z-index: 0;
-    border-radius: 10px;
-    user-select: none;
-    -webkit-user-select: none;
-    touch-action: manipulation;
-  }
+  padding: 0.6em 2em;
+  border: none;
+  outline: none;
+  color: rgb(0, 0, 0);
+  background: linear-gradient(324deg, rgba(212,18,170, 0.884) 0%, rgba(255, 241, 39, 0.884) 48%, rgba(255,108,13, 0.884) 100%);
+  cursor: pointer;
+  z-index: 0;
+  border-radius: 10px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
 
-  .white{
-    color: blanchedalmond;
-  }
+.white{
+  color: blanchedalmond;
+}
 
-  .bold{
-    font-weight: 500;
-    color: black;
-  }
+.bold{
+  font-weight: 500;
+  color: black;
+}
 
 .trebu{
-  font-family:'Trebuchet MS' ;
-  text-decoration: none;
-  color: black;
+font-family:'Trebuchet MS' ;
 }
 
 .treb{
-  font-family:'Trebuchet MS' ;
-  color: black;
+font-family:'Trebuchet MS' ;
+color: black;
 }
 
 .pad40a{
-  padding-top: 40px;
+padding-top: 40px;
 }
 
 .pad20{
-  padding-top: 20px;
+padding-top: 20px;
 }
 
 .pad50{
-  padding-top: 50px;
+padding-top: 50px;
 }
 
 .pad25{
-  padding-top: 25px;
+padding-top: 25px;
 }
 
 .pad100{
-  padding-top: 100px; width:100%;text-align:center;
+padding-top: 100px; width:100%;text-align:center;
 }
 
 .pad40b{
-  padding-top: 40px; width: 100%; text-align: center; display: inline-block;
+padding-top: 40px; width: 100%; text-align: center; display: inline-block;
 }
 
 .gradient{
-  position:fixed; background: linear-gradient(324deg, rgba(212,18,170, 0.884) 0%, rgba(255, 241, 39, 0.884) 48%, rgba(255,108,13, 0.884) 100%);
+position:fixed; background: linear-gradient(324deg, rgba(212,18,170, 0.884) 0%, rgba(255, 241, 39, 0.884) 48%, rgba(255,108,13, 0.884) 100%);
 }
 
 .logo{
-  width: 100%; text-align: center; display: inline-block;
+width: 100%; text-align: center; display: inline-block;
 }
 
 .border0{
-  border:0;
+border:0;
 }
