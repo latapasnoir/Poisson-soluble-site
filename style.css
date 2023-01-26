@@ -4,17 +4,9 @@ body{
 }
 
 .button-sus {
-  padding: 0.6em 2em;
-  border: none;
-  outline: none;
-  color: rgb(0, 0, 0);
-  background: linear-gradient(324deg, rgba(212,18,170, 0.884) 0%, rgba(255, 241, 39, 0.884) 48%, rgba(255,108,13, 0.884) 100%);
-  cursor: pointer;
-  z-index: 0;
-  border-radius: 10px;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
+  border: none; outline: none; color: black; padding: 0.6em 2em;
+  background: linear-gradient(324deg, rgba(212,18,170, 0.884) 0%, rgba(255, 241, 39, 0.884) 48%, rgba(255,108,13, 0.884) 100%); cursor: pointer;
+  z-index: 0; border-radius: 10px; user-select: none; -webkit-user-select: none;   touch-action: manipulation;
 }
 
 .white{
@@ -22,8 +14,7 @@ body{
 }
 
 .bold{
-  font-weight: 500;
-  color: black;
+  font-weight: 500; color: black;
 }
 
 .trebu{
@@ -31,8 +22,7 @@ font-family:'Trebuchet MS' ;
 }
 
 .treb{
-font-family:'Trebuchet MS' ;
-color: black;
+font-family:'Trebuchet MS' ; color: black;
 }
 
 .pad40a{
